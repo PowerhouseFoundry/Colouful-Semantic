@@ -1,0 +1,51 @@
+﻿Section,Activity ID,Suggested photograph,File to replace
+Cooking,cooking_01,Chopping vegetables,photos/cooking/cooking_01.jpg
+Cooking,cooking_02,Stirring a saucepan,photos/cooking/cooking_02.jpg
+Cooking,cooking_03,Using the oven,photos/cooking/cooking_03.jpg
+Cooking,cooking_04,Washing dishes,photos/cooking/cooking_04.jpg
+Cooking,cooking_05,Making a sandwich,photos/cooking/cooking_05.jpg
+Cooking,cooking_06,Eating a meal,photos/cooking/cooking_06.jpg
+Cooking,cooking_07,Taking bins out,photos/cooking/cooking_07.jpg
+Cooking,cooking_08,Washing hands,photos/cooking/cooking_08.jpg
+Cooking,cooking_09,Putting food in the fridge,photos/cooking/cooking_09.jpg
+Cooking,cooking_10,Serving food,photos/cooking/cooking_10.jpg
+Jobs,jobs_01,Scanning a parcel,photos/jobs/jobs_01.jpg
+Jobs,jobs_02,Packing a box,photos/jobs/jobs_02.jpg
+Jobs,jobs_03,Cleaning a table,photos/jobs/jobs_03.jpg
+Jobs,jobs_04,Answering a phone,photos/jobs/jobs_04.jpg
+Jobs,jobs_05,Serving a customer,photos/jobs/jobs_05.jpg
+Jobs,jobs_06,Making coffee,photos/jobs/jobs_06.jpg
+Jobs,jobs_07,Stocking shelves,photos/jobs/jobs_07.jpg
+Jobs,jobs_08,Typing at a computer,photos/jobs/jobs_08.jpg
+Jobs,jobs_09,Delivering a parcel,photos/jobs/jobs_09.jpg
+Jobs,jobs_10,Sweeping the floor,photos/jobs/jobs_10.jpg
+College,college_01,Writing in a book,photos/college/college_01.jpg
+College,college_02,Listening to a teacher,photos/college/college_02.jpg
+College,college_03,Using a laptop,photos/college/college_03.jpg
+College,college_04,Reading a worksheet,photos/college/college_04.jpg
+College,college_05,Raising a hand,photos/college/college_05.jpg
+College,college_06,Working with a friend,photos/college/college_06.jpg
+College,college_07,Cutting with scissors,photos/college/college_07.jpg
+College,college_08,Putting a bag away,photos/college/college_08.jpg
+College,college_09,Eating lunch,photos/college/college_09.jpg
+College,college_10,Talking to a teacher,photos/college/college_10.jpg
+Home,home_01,Making the bed,photos/home/home_01.jpg
+Home,home_02,Hoovering the carpet,photos/home/home_02.jpg
+Home,home_03,Loading a washing machine,photos/home/home_03.jpg
+Home,home_04,Hanging washing,photos/home/home_04.jpg
+Home,home_05,Ironing clothes,photos/home/home_05.jpg
+Home,home_06,Brushing teeth,photos/home/home_06.jpg
+Home,home_07,Getting dressed,photos/home/home_07.jpg
+Home,home_08,Cleaning a window,photos/home/home_08.jpg
+Home,home_09,Watering plants,photos/home/home_09.jpg
+Home,home_10,Folding clothes,photos/home/home_10.jpg
+Community,community_01,Walking in the park,photos/community/community_01.jpg
+Community,community_02,Feeding a pet,photos/community/community_02.jpg
+Community,community_03,Getting on a bus,photos/community/community_03_getting_on_bus.jpg
+Community,community_04,Posting a letter,photos/community/community_04.jpg
+Community,community_05,Picking up litter,photos/community/community_05.jpg
+Community,community_06,Sitting on a bench,photos/community/community_06.jpg
+Community,community_07,Waiting for a bus,photos/community/community_07_waiting_for_bus.jpg
+Community,community_08,Shopping at a market,photos/community/community_08.jpg
+Community,community_09,Recycling a bottle,photos/community/community_09.jpg
+Community,community_10,Crossing the road,photos/community/community_10.jpg

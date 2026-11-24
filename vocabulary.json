@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "who_chef",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "cook",
+    "suggested_phrase": "cook",
+    "topics": "jobs",
+    "filename": "symbols/who_chef.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_waiter",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "waiter",
+    "suggested_phrase": "waiter",
+    "topics": "jobs",
+    "filename": "symbols/who_waiter.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_waitress",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "waitress",
+    "suggested_phrase": "waitress",
+    "topics": "jobs",
+    "filename": "symbols/who_waitress.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_barista",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "barista",
+    "suggested_phrase": "barista",
+    "topics": "jobs",
+    "filename": "symbols/who_barista.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_cleaner",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "cleaner",
+    "suggested_phrase": "cleaner",
+    "topics": "jobs",
+    "filename": "symbols/who_cleaner.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_shop_assistant",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "shop assistant",
+    "suggested_phrase": "shop assistant",
+    "topics": "jobs",
+    "filename": "symbols/who_shop_assistant.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_cashier",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "cashier",
+    "suggested_phrase": "cashier",
+    "topics": "jobs",
+    "filename": "symbols/who_cashier.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_warehouse_worker",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "warehouse worker",
+    "suggested_phrase": "warehouse worker",
+    "topics": "jobs",
+    "filename": "symbols/who_warehouse_worker.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_delivery_driver",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "delivery driver",
+    "suggested_phrase": "delivery driver",
+    "topics": "jobs",
+    "filename": "symbols/who_delivery_driver.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_receptionist",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "receptionist",
+    "suggested_phrase": "receptionist",
+    "topics": "jobs",
+    "filename": "symbols/who_receptionist.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_teacher",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "teacher",
+    "suggested_phrase": "teacher",
+    "topics": "jobs",
+    "filename": "symbols/who_teacher.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_learner",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "learner",
+    "suggested_phrase": "learner",
+    "topics": "jobs",
+    "filename": "symbols/who_learner.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_customer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "customer",
+    "suggested_phrase": "customer",
+    "topics": "jobs",
+    "filename": "symbols/who_customer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_manager",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "manager",
+    "suggested_phrase": "manager",
+    "topics": "jobs",
+    "filename": "symbols/who_manager.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_doctor",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "doctor",
+    "suggested_phrase": "doctor",
+    "topics": "jobs",
+    "filename": "symbols/who_doctor.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_nurse",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "nurse",
+    "suggested_phrase": "nurse",
+    "topics": "jobs",
+    "filename": "symbols/who_nurse.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_firefighter",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "firefighter",
+    "suggested_phrase": "firefighter",
+    "topics": "jobs",
+    "filename": "symbols/who_firefighter.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_police_officer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "police officer",
+    "suggested_phrase": "police officer",
+    "topics": "jobs",
+    "filename": "symbols/who_police_officer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_builder",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "builder",
+    "suggested_phrase": "builder",
+    "topics": "jobs",
+    "filename": "symbols/who_builder.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_mechanic",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "mechanic",
+    "suggested_phrase": "mechanic",
+    "topics": "jobs",
+    "filename": "symbols/who_mechanic.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_hairdresser",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "hairdresser",
+    "suggested_phrase": "hairdresser",
+    "topics": "jobs",
+    "filename": "symbols/who_hairdresser.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_gardener",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "gardener",
+    "suggested_phrase": "gardener",
+    "topics": "jobs",
+    "filename": "symbols/who_gardener.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_farmer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "farmer",
+    "suggested_phrase": "farmer",
+    "topics": "jobs",
+    "filename": "symbols/who_farmer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_office_worker",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "office worker",
+    "suggested_phrase": "office worker",
+    "topics": "jobs",
+    "filename": "symbols/who_office_worker.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_man",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "man",
+    "suggested_phrase": "man",
+    "topics": "home",
+    "filename": "symbols/who_man.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_woman",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "woman",
+    "suggested_phrase": "woman",
+    "topics": "home",
+    "filename": "symbols/who_woman.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_boy",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "boy",
+    "suggested_phrase": "boy",
+    "topics": "home",
+    "filename": "symbols/who_boy.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_girl",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "girl",
+    "suggested_phrase": "girl",
+    "topics": "home",
+    "filename": "symbols/who_girl.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_mum",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "mum",
+    "suggested_phrase": "mum",
+    "topics": "home",
+    "filename": "symbols/who_mum.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_dad",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "dad",
+    "suggested_phrase": "dad",
+    "topics": "home",
+    "filename": "symbols/who_dad.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_brother",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "brother",
+    "suggested_phrase": "brother",
+    "topics": "home",
+    "filename": "symbols/who_brother.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_sister",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "sister",
+    "suggested_phrase": "sister",
+    "topics": "home",
+    "filename": "symbols/who_sister.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_grandma",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "grandma",
+    "suggested_phrase": "grandma",
+    "topics": "home",
+    "filename": "symbols/who_grandma.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_grandad",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "grandad",
+    "suggested_phrase": "grandad",
+    "topics": "home",
+    "filename": "symbols/who_grandad.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_friend",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "friend",
+    "suggested_phrase": "friend",
+    "topics": "home",
+    "filename": "symbols/who_friend.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_neighbour",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "neighbour",
+    "suggested_phrase": "neighbour",
+    "topics": "home",
+    "filename": "symbols/who_neighbour.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_person",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "person",
+    "suggested_phrase": "person",
+    "topics": "home",
+    "filename": "symbols/who_person.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_footballer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "footballer",
+    "suggested_phrase": "footballer",
+    "topics": "sports",
+    "filename": "symbols/who_footballer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_goalkeeper",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "goalkeeper",
+    "suggested_phrase": "goalkeeper",
+    "topics": "sports",
+    "filename": "symbols/who_goalkeeper.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_coach",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "coach",
+    "suggested_phrase": "coach",
+    "topics": "sports",
+    "filename": "symbols/who_coach.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_runner",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "runner",
+    "suggested_phrase": "runner",
+    "topics": "sports",
+    "filename": "symbols/who_runner.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_swimmer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "swimmer",
+    "suggested_phrase": "swimmer",
+    "topics": "sports",
+    "filename": "symbols/who_swimmer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_cyclist",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "cyclist",
+    "suggested_phrase": "cyclist",
+    "topics": "sports",
+    "filename": "symbols/who_cyclist.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_referee",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "referee",
+    "suggested_phrase": "referee",
+    "topics": "sports",
+    "filename": "symbols/who_referee.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_tennis_player",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "tennis player",
+    "suggested_phrase": "tennis player",
+    "topics": "sports",
+    "filename": "symbols/who_tennis_player.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_basketball_player",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "basketball player",
+    "suggested_phrase": "basketball player",
+    "topics": "sports",
+    "filename": "symbols/who_basketball_player.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_musician",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "musician",
+    "suggested_phrase": "musician",
+    "topics": "leisure",
+    "filename": "symbols/who_musician.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_singer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "singer",
+    "suggested_phrase": "singer",
+    "topics": "leisure",
+    "filename": "symbols/who_singer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_dancer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "dancer",
+    "suggested_phrase": "dancer",
+    "topics": "leisure",
+    "filename": "symbols/who_dancer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_artist",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "artist",
+    "suggested_phrase": "artist",
+    "topics": "leisure",
+    "filename": "symbols/who_artist.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_photographer",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "photographer",
+    "suggested_phrase": "photographer",
+    "topics": "leisure",
+    "filename": "symbols/who_photographer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_visitor",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "visitor",
+    "suggested_phrase": "visitor",
+    "topics": "leisure",
+    "filename": "symbols/who_visitor.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_dog",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "dog",
+    "suggested_phrase": "dog",
+    "topics": "animals",
+    "filename": "symbols/who_dog.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_cat",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "cat",
+    "suggested_phrase": "cat",
+    "topics": "animals",
+    "filename": "symbols/who_cat.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_bird",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "bird",
+    "suggested_phrase": "bird",
+    "topics": "animals",
+    "filename": "symbols/who_bird.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_horse",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "horse",
+    "suggested_phrase": "horse",
+    "topics": "animals",
+    "filename": "symbols/who_horse.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "who_rabbit",
+    "colour_group": "who",
+    "colour_name": "Orange",
+    "symbol_text": "rabbit",
+    "suggested_phrase": "rabbit",
+    "topics": "animals",
+    "filename": "symbols/who_rabbit.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_cooking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "cooking",
+    "suggested_phrase": "cooking",
+    "topics": "cooking",
+    "filename": "symbols/doing_cooking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_chopping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "chopping",
+    "suggested_phrase": "chopping",
+    "topics": "cooking",
+    "filename": "symbols/doing_chopping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_cutting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "cutting",
+    "suggested_phrase": "cutting",
+    "topics": "cooking",
+    "filename": "symbols/doing_cutting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_stirring",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "stirring",
+    "suggested_phrase": "stirring",
+    "topics": "cooking",
+    "filename": "symbols/doing_stirring.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_mixing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "mixing",
+    "suggested_phrase": "mixing",
+    "topics": "cooking",
+    "filename": "symbols/doing_mixing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_baking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "baking",
+    "suggested_phrase": "baking",
+    "topics": "cooking",
+    "filename": "symbols/doing_baking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_peeling",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "peeling",
+    "suggested_phrase": "peeling",
+    "topics": "cooking",
+    "filename": "symbols/doing_peeling.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_pouring",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "pouring",
+    "suggested_phrase": "pouring",
+    "topics": "cooking",
+    "filename": "symbols/doing_pouring.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_washing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "washing",
+    "suggested_phrase": "washing",
+    "topics": "cooking",
+    "filename": "symbols/doing_washing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_serving",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "serving",
+    "suggested_phrase": "serving",
+    "topics": "cooking",
+    "filename": "symbols/doing_serving.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_preparing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "preparing",
+    "suggested_phrase": "preparing",
+    "topics": "cooking",
+    "filename": "symbols/doing_preparing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_tasting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "tasting",
+    "suggested_phrase": "tasting",
+    "topics": "cooking",
+    "filename": "symbols/doing_tasting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_carrying",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "carrying",
+    "suggested_phrase": "carrying",
+    "topics": "cooking",
+    "filename": "symbols/doing_carrying.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_drinking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "drinking",
+    "suggested_phrase": "drinking",
+    "topics": "cooking",
+    "filename": "symbols/doing_drinking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_eating",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "eating",
+    "suggested_phrase": "eating",
+    "topics": "cooking",
+    "filename": "symbols/doing_eating.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_working",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "working",
+    "suggested_phrase": "working",
+    "topics": "jobs",
+    "filename": "symbols/doing_working.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_cleaning",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "cleaning",
+    "suggested_phrase": "cleaning",
+    "topics": "jobs",
+    "filename": "symbols/doing_cleaning.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_sweeping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "sweeping",
+    "suggested_phrase": "sweeping",
+    "topics": "jobs",
+    "filename": "symbols/doing_sweeping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_mopping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "mopping",
+    "suggested_phrase": "mopping",
+    "topics": "jobs",
+    "filename": "symbols/doing_mopping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_wiping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "wiping",
+    "suggested_phrase": "wiping",
+    "topics": "jobs",
+    "filename": "symbols/doing_wiping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_stacking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "stacking",
+    "suggested_phrase": "stacking",
+    "topics": "jobs",
+    "filename": "symbols/doing_stacking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_packing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "packing",
+    "suggested_phrase": "packing",
+    "topics": "jobs",
+    "filename": "symbols/doing_packing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_sorting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "sorting",
+    "suggested_phrase": "sorting",
+    "topics": "jobs",
+    "filename": "symbols/doing_sorting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_scanning",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "scanning",
+    "suggested_phrase": "scanning",
+    "topics": "jobs",
+    "filename": "symbols/doing_scanning.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_delivering",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "delivering",
+    "suggested_phrase": "delivering",
+    "topics": "jobs",
+    "filename": "symbols/doing_delivering.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_typing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "typing",
+    "suggested_phrase": "typing",
+    "topics": "jobs",
+    "filename": "symbols/doing_typing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_answering",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "answering",
+    "suggested_phrase": "answering",
+    "topics": "jobs",
+    "filename": "symbols/doing_answering.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_checking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "checking",
+    "suggested_phrase": "checking",
+    "topics": "jobs",
+    "filename": "symbols/doing_checking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_counting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "counting",
+    "suggested_phrase": "counting",
+    "topics": "jobs",
+    "filename": "symbols/doing_counting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_printing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "printing",
+    "suggested_phrase": "printing",
+    "topics": "jobs",
+    "filename": "symbols/doing_printing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_filing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "filing",
+    "suggested_phrase": "filing",
+    "topics": "jobs",
+    "filename": "symbols/doing_filing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_helping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "helping",
+    "suggested_phrase": "helping",
+    "topics": "jobs",
+    "filename": "symbols/doing_helping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_selling",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "selling",
+    "suggested_phrase": "selling",
+    "topics": "jobs",
+    "filename": "symbols/doing_selling.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_buying",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "buying",
+    "suggested_phrase": "buying",
+    "topics": "jobs",
+    "filename": "symbols/doing_buying.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_paying",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "paying",
+    "suggested_phrase": "paying",
+    "topics": "jobs",
+    "filename": "symbols/doing_paying.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_opening",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "opening",
+    "suggested_phrase": "opening",
+    "topics": "jobs",
+    "filename": "symbols/doing_opening.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_closing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "closing",
+    "suggested_phrase": "closing",
+    "topics": "jobs",
+    "filename": "symbols/doing_closing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_waiting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "waiting",
+    "suggested_phrase": "waiting",
+    "topics": "jobs",
+    "filename": "symbols/doing_waiting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_standing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "standing",
+    "suggested_phrase": "standing",
+    "topics": "jobs",
+    "filename": "symbols/doing_standing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_sitting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "sitting",
+    "suggested_phrase": "sitting",
+    "topics": "jobs",
+    "filename": "symbols/doing_sitting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_walking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "walking",
+    "suggested_phrase": "walking",
+    "topics": "jobs",
+    "filename": "symbols/doing_walking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_talking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "talking",
+    "suggested_phrase": "talking",
+    "topics": "jobs",
+    "filename": "symbols/doing_talking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_listening",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "listening",
+    "suggested_phrase": "listening",
+    "topics": "jobs",
+    "filename": "symbols/doing_listening.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_reading",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "reading",
+    "suggested_phrase": "reading",
+    "topics": "jobs",
+    "filename": "symbols/doing_reading.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_writing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "writing",
+    "suggested_phrase": "writing",
+    "topics": "jobs",
+    "filename": "symbols/doing_writing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_showing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "showing",
+    "suggested_phrase": "showing",
+    "topics": "jobs",
+    "filename": "symbols/doing_showing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_giving",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "giving",
+    "suggested_phrase": "giving",
+    "topics": "jobs",
+    "filename": "symbols/doing_giving.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_taking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "taking",
+    "suggested_phrase": "taking",
+    "topics": "jobs",
+    "filename": "symbols/doing_taking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_brushing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "brushing",
+    "suggested_phrase": "brushing",
+    "topics": "home",
+    "filename": "symbols/doing_brushing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_getting_dressed",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "getting dressed",
+    "suggested_phrase": "getting dressed",
+    "topics": "home",
+    "filename": "symbols/doing_getting_dressed.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_folding",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "folding",
+    "suggested_phrase": "folding",
+    "topics": "home",
+    "filename": "symbols/doing_folding.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_tidying",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "tidying",
+    "suggested_phrase": "tidying",
+    "topics": "home",
+    "filename": "symbols/doing_tidying.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_hoovering",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "hoovering",
+    "suggested_phrase": "hoovering",
+    "topics": "home",
+    "filename": "symbols/doing_hoovering.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_making_the_bed",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "making the bed",
+    "suggested_phrase": "making the bed",
+    "topics": "home",
+    "filename": "symbols/doing_making_the_bed.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_feeding",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "feeding",
+    "suggested_phrase": "feeding",
+    "topics": "home",
+    "filename": "symbols/doing_feeding.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_watering",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "watering",
+    "suggested_phrase": "watering",
+    "topics": "home",
+    "filename": "symbols/doing_watering.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_sleeping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "sleeping",
+    "suggested_phrase": "sleeping",
+    "topics": "home",
+    "filename": "symbols/doing_sleeping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_resting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "resting",
+    "suggested_phrase": "resting",
+    "topics": "home",
+    "filename": "symbols/doing_resting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_watching",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "watching",
+    "suggested_phrase": "watching",
+    "topics": "home",
+    "filename": "symbols/doing_watching.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_playing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "playing",
+    "suggested_phrase": "playing",
+    "topics": "home",
+    "filename": "symbols/doing_playing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_putting_away",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "putting away",
+    "suggested_phrase": "putting away",
+    "topics": "home",
+    "filename": "symbols/doing_putting_away.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_running",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "running",
+    "suggested_phrase": "running",
+    "topics": "sports",
+    "filename": "symbols/doing_running.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_jumping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "jumping",
+    "suggested_phrase": "jumping",
+    "topics": "sports",
+    "filename": "symbols/doing_jumping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_kicking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "kicking",
+    "suggested_phrase": "kicking",
+    "topics": "sports",
+    "filename": "symbols/doing_kicking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_throwing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "throwing",
+    "suggested_phrase": "throwing",
+    "topics": "sports",
+    "filename": "symbols/doing_throwing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_catching",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "catching",
+    "suggested_phrase": "catching",
+    "topics": "sports",
+    "filename": "symbols/doing_catching.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_swimming",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "swimming",
+    "suggested_phrase": "swimming",
+    "topics": "sports",
+    "filename": "symbols/doing_swimming.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_cycling",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "cycling",
+    "suggested_phrase": "cycling",
+    "topics": "sports",
+    "filename": "symbols/doing_cycling.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_shooting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "shooting",
+    "suggested_phrase": "shooting",
+    "topics": "sports",
+    "filename": "symbols/doing_shooting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_training",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "training",
+    "suggested_phrase": "training",
+    "topics": "sports",
+    "filename": "symbols/doing_training.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_stretching",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "stretching",
+    "suggested_phrase": "stretching",
+    "topics": "sports",
+    "filename": "symbols/doing_stretching.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_climbing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "climbing",
+    "suggested_phrase": "climbing",
+    "topics": "sports",
+    "filename": "symbols/doing_climbing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_boarding",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "boarding",
+    "suggested_phrase": "boarding",
+    "topics": "travel",
+    "filename": "symbols/doing_boarding.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_travelling",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "travelling",
+    "suggested_phrase": "travelling",
+    "topics": "travel",
+    "filename": "symbols/doing_travelling.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_driving",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "driving",
+    "suggested_phrase": "driving",
+    "topics": "travel",
+    "filename": "symbols/doing_driving.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_crossing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "crossing",
+    "suggested_phrase": "crossing",
+    "topics": "travel",
+    "filename": "symbols/doing_crossing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_queuing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "queuing",
+    "suggested_phrase": "queuing",
+    "topics": "travel",
+    "filename": "symbols/doing_queuing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_booking",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "booking",
+    "suggested_phrase": "booking",
+    "topics": "travel",
+    "filename": "symbols/doing_booking.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_drawing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "drawing",
+    "suggested_phrase": "drawing",
+    "topics": "leisure",
+    "filename": "symbols/doing_drawing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_painting",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "painting",
+    "suggested_phrase": "painting",
+    "topics": "leisure",
+    "filename": "symbols/doing_painting.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_singing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "singing",
+    "suggested_phrase": "singing",
+    "topics": "leisure",
+    "filename": "symbols/doing_singing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_dancing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "dancing",
+    "suggested_phrase": "dancing",
+    "topics": "leisure",
+    "filename": "symbols/doing_dancing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_shopping",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "shopping",
+    "suggested_phrase": "shopping",
+    "topics": "leisure",
+    "filename": "symbols/doing_shopping.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_smiling",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "smiling",
+    "suggested_phrase": "smiling",
+    "topics": "leisure",
+    "filename": "symbols/doing_smiling.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_laughing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "laughing",
+    "suggested_phrase": "laughing",
+    "topics": "leisure",
+    "filename": "symbols/doing_laughing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_carrot",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "carrot",
+    "suggested_phrase": "carrot",
+    "topics": "cooking",
+    "filename": "symbols/what_carrot.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_potato",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "potato",
+    "suggested_phrase": "potato",
+    "topics": "cooking",
+    "filename": "symbols/what_potato.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_tomato",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "tomato",
+    "suggested_phrase": "tomato",
+    "topics": "cooking",
+    "filename": "symbols/what_tomato.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_onion",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "onion",
+    "suggested_phrase": "onion",
+    "topics": "cooking",
+    "filename": "symbols/what_onion.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_apple",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "apple",
+    "suggested_phrase": "apple",
+    "topics": "cooking",
+    "filename": "symbols/what_apple.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_banana",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "banana",
+    "suggested_phrase": "banana",
+    "topics": "cooking",
+    "filename": "symbols/what_banana.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bread",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bread",
+    "suggested_phrase": "bread",
+    "topics": "cooking",
+    "filename": "symbols/what_bread.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_cake",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "cake",
+    "suggested_phrase": "cake",
+    "topics": "cooking",
+    "filename": "symbols/what_cake.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_sandwich",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "sandwich",
+    "suggested_phrase": "sandwich",
+    "topics": "cooking",
+    "filename": "symbols/what_sandwich.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_pizza",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "pizza",
+    "suggested_phrase": "pizza",
+    "topics": "cooking",
+    "filename": "symbols/what_pizza.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_salad",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "salad",
+    "suggested_phrase": "salad",
+    "topics": "cooking",
+    "filename": "symbols/what_salad.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_soup",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "soup",
+    "suggested_phrase": "soup",
+    "topics": "cooking",
+    "filename": "symbols/what_soup.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_egg",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "egg",
+    "suggested_phrase": "egg",
+    "topics": "cooking",
+    "filename": "symbols/what_egg.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_pasta",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "pasta",
+    "suggested_phrase": "pasta",
+    "topics": "cooking",
+    "filename": "symbols/what_pasta.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_rice",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "rice",
+    "suggested_phrase": "rice",
+    "topics": "cooking",
+    "filename": "symbols/what_rice.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_chicken",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "chicken",
+    "suggested_phrase": "chicken",
+    "topics": "cooking",
+    "filename": "symbols/what_chicken.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_vegetables",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "vegetables",
+    "suggested_phrase": "vegetables",
+    "topics": "cooking",
+    "filename": "symbols/what_vegetables.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_coffee",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "coffee",
+    "suggested_phrase": "coffee",
+    "topics": "cooking",
+    "filename": "symbols/what_coffee.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_tea",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "tea",
+    "suggested_phrase": "tea",
+    "topics": "cooking",
+    "filename": "symbols/what_tea.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_water",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "water",
+    "suggested_phrase": "water",
+    "topics": "cooking",
+    "filename": "symbols/what_water.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_milk",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "milk",
+    "suggested_phrase": "milk",
+    "topics": "cooking",
+    "filename": "symbols/what_milk.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_cup",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "cup",
+    "suggested_phrase": "cup",
+    "topics": "cooking",
+    "filename": "symbols/what_cup.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_mug",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "mug",
+    "suggested_phrase": "mug",
+    "topics": "cooking",
+    "filename": "symbols/what_mug.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_plate",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "plate",
+    "suggested_phrase": "plate",
+    "topics": "cooking",
+    "filename": "symbols/what_plate.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bowl",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bowl",
+    "suggested_phrase": "bowl",
+    "topics": "cooking",
+    "filename": "symbols/what_bowl.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_spoon",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "spoon",
+    "suggested_phrase": "spoon",
+    "topics": "cooking",
+    "filename": "symbols/what_spoon.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_fork",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "fork",
+    "suggested_phrase": "fork",
+    "topics": "cooking",
+    "filename": "symbols/what_fork.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_knife",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "knife",
+    "suggested_phrase": "knife",
+    "topics": "cooking",
+    "filename": "symbols/what_knife.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_pan",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "pan",
+    "suggested_phrase": "pan",
+    "topics": "cooking",
+    "filename": "symbols/what_pan.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_oven",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "oven",
+    "suggested_phrase": "oven",
+    "topics": "cooking",
+    "filename": "symbols/what_oven.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_tray",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "tray",
+    "suggested_phrase": "tray",
+    "topics": "cooking",
+    "filename": "symbols/what_tray.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_menu",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "menu",
+    "suggested_phrase": "menu",
+    "topics": "cooking",
+    "filename": "symbols/what_menu.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_box",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "box",
+    "suggested_phrase": "box",
+    "topics": "jobs",
+    "filename": "symbols/what_box.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_parcel",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "parcel",
+    "suggested_phrase": "parcel",
+    "topics": "jobs",
+    "filename": "symbols/what_parcel.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_package",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "package",
+    "suggested_phrase": "package",
+    "topics": "jobs",
+    "filename": "symbols/what_package.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_shelf",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "shelf",
+    "suggested_phrase": "shelf",
+    "topics": "jobs",
+    "filename": "symbols/what_shelf.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_trolley",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "trolley",
+    "suggested_phrase": "trolley",
+    "topics": "jobs",
+    "filename": "symbols/what_trolley.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_barcode",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "barcode",
+    "suggested_phrase": "barcode",
+    "topics": "jobs",
+    "filename": "symbols/what_barcode.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_scanner",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "scanner",
+    "suggested_phrase": "scanner",
+    "topics": "jobs",
+    "filename": "symbols/what_scanner.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_computer",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "computer",
+    "suggested_phrase": "computer",
+    "topics": "jobs",
+    "filename": "symbols/what_computer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_keyboard",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "keyboard",
+    "suggested_phrase": "keyboard",
+    "topics": "jobs",
+    "filename": "symbols/what_keyboard.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_phone",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "phone",
+    "suggested_phrase": "phone",
+    "topics": "jobs",
+    "filename": "symbols/what_phone.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_letter",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "letter",
+    "suggested_phrase": "letter",
+    "topics": "jobs",
+    "filename": "symbols/what_letter.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_envelope",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "envelope",
+    "suggested_phrase": "envelope",
+    "topics": "jobs",
+    "filename": "symbols/what_envelope.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_paper",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "paper",
+    "suggested_phrase": "paper",
+    "topics": "jobs",
+    "filename": "symbols/what_paper.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_document",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "document",
+    "suggested_phrase": "document",
+    "topics": "jobs",
+    "filename": "symbols/what_document.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_invoice",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "invoice",
+    "suggested_phrase": "invoice",
+    "topics": "jobs",
+    "filename": "symbols/what_invoice.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_pen",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "pen",
+    "suggested_phrase": "pen",
+    "topics": "jobs",
+    "filename": "symbols/what_pen.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_book",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "book",
+    "suggested_phrase": "book",
+    "topics": "jobs",
+    "filename": "symbols/what_book.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_table",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "table",
+    "suggested_phrase": "table",
+    "topics": "jobs",
+    "filename": "symbols/what_table.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_chair",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "chair",
+    "suggested_phrase": "chair",
+    "topics": "jobs",
+    "filename": "symbols/what_chair.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_door",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "door",
+    "suggested_phrase": "door",
+    "topics": "jobs",
+    "filename": "symbols/what_door.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_window",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "window",
+    "suggested_phrase": "window",
+    "topics": "jobs",
+    "filename": "symbols/what_window.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bin",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bin",
+    "suggested_phrase": "bin",
+    "topics": "jobs",
+    "filename": "symbols/what_bin.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_brush",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "brush",
+    "suggested_phrase": "brush",
+    "topics": "jobs",
+    "filename": "symbols/what_brush.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_mop",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "mop",
+    "suggested_phrase": "mop",
+    "topics": "jobs",
+    "filename": "symbols/what_mop.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_cloth",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "cloth",
+    "suggested_phrase": "cloth",
+    "topics": "jobs",
+    "filename": "symbols/what_cloth.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_uniform",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "uniform",
+    "suggested_phrase": "uniform",
+    "topics": "jobs",
+    "filename": "symbols/what_uniform.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bag",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bag",
+    "suggested_phrase": "bag",
+    "topics": "jobs",
+    "filename": "symbols/what_bag.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_money",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "money",
+    "suggested_phrase": "money",
+    "topics": "jobs",
+    "filename": "symbols/what_money.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_card",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "card",
+    "suggested_phrase": "card",
+    "topics": "jobs",
+    "filename": "symbols/what_card.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_receipt",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "receipt",
+    "suggested_phrase": "receipt",
+    "topics": "jobs",
+    "filename": "symbols/what_receipt.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_ticket",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "ticket",
+    "suggested_phrase": "ticket",
+    "topics": "jobs",
+    "filename": "symbols/what_ticket.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bed",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bed",
+    "suggested_phrase": "bed",
+    "topics": "home",
+    "filename": "symbols/what_bed.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_clothes",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "clothes",
+    "suggested_phrase": "clothes",
+    "topics": "home",
+    "filename": "symbols/what_clothes.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_shoes",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "shoes",
+    "suggested_phrase": "shoes",
+    "topics": "home",
+    "filename": "symbols/what_shoes.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_toothbrush",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "toothbrush",
+    "suggested_phrase": "toothbrush",
+    "topics": "home",
+    "filename": "symbols/what_toothbrush.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_towel",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "towel",
+    "suggested_phrase": "towel",
+    "topics": "home",
+    "filename": "symbols/what_towel.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_soap",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "soap",
+    "suggested_phrase": "soap",
+    "topics": "home",
+    "filename": "symbols/what_soap.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_television",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "television",
+    "suggested_phrase": "television",
+    "topics": "home",
+    "filename": "symbols/what_television.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_remote",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "remote",
+    "suggested_phrase": "remote",
+    "topics": "home",
+    "filename": "symbols/what_remote.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_plant",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "plant",
+    "suggested_phrase": "plant",
+    "topics": "home",
+    "filename": "symbols/what_plant.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_laundry",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "laundry",
+    "suggested_phrase": "laundry",
+    "topics": "home",
+    "filename": "symbols/what_laundry.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_food",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "food",
+    "suggested_phrase": "food",
+    "topics": "home",
+    "filename": "symbols/what_food.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_drink",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "drink",
+    "suggested_phrase": "drink",
+    "topics": "home",
+    "filename": "symbols/what_drink.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_football",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "football",
+    "suggested_phrase": "football",
+    "topics": "sports",
+    "filename": "symbols/what_football.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_ball",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "ball",
+    "suggested_phrase": "ball",
+    "topics": "sports",
+    "filename": "symbols/what_ball.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_goal",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "goal",
+    "suggested_phrase": "goal",
+    "topics": "sports",
+    "filename": "symbols/what_goal.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bat",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bat",
+    "suggested_phrase": "bat",
+    "topics": "sports",
+    "filename": "symbols/what_bat.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_racket",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "racket",
+    "suggested_phrase": "racket",
+    "topics": "sports",
+    "filename": "symbols/what_racket.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bike",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bike",
+    "suggested_phrase": "bike",
+    "topics": "sports",
+    "filename": "symbols/what_bike.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_helmet",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "helmet",
+    "suggested_phrase": "helmet",
+    "topics": "sports",
+    "filename": "symbols/what_helmet.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_medal",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "medal",
+    "suggested_phrase": "medal",
+    "topics": "sports",
+    "filename": "symbols/what_medal.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_net",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "net",
+    "suggested_phrase": "net",
+    "topics": "sports",
+    "filename": "symbols/what_net.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_bus",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "bus",
+    "suggested_phrase": "bus",
+    "topics": "travel",
+    "filename": "symbols/what_bus.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_train",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "train",
+    "suggested_phrase": "train",
+    "topics": "travel",
+    "filename": "symbols/what_train.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_car",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "car",
+    "suggested_phrase": "car",
+    "topics": "travel",
+    "filename": "symbols/what_car.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_seat",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "seat",
+    "suggested_phrase": "seat",
+    "topics": "travel",
+    "filename": "symbols/what_seat.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_suitcase",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "suitcase",
+    "suggested_phrase": "suitcase",
+    "topics": "travel",
+    "filename": "symbols/what_suitcase.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_map",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "map",
+    "suggested_phrase": "map",
+    "topics": "travel",
+    "filename": "symbols/what_map.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_picture",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "picture",
+    "suggested_phrase": "picture",
+    "topics": "leisure",
+    "filename": "symbols/what_picture.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_music",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "music",
+    "suggested_phrase": "music",
+    "topics": "leisure",
+    "filename": "symbols/what_music.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_guitar",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "guitar",
+    "suggested_phrase": "guitar",
+    "topics": "leisure",
+    "filename": "symbols/what_guitar.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_paint",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "paint",
+    "suggested_phrase": "paint",
+    "topics": "leisure",
+    "filename": "symbols/what_paint.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "what_game",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "game",
+    "suggested_phrase": "game",
+    "topics": "leisure",
+    "filename": "symbols/what_game.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_kitchen",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the kitchen",
+    "suggested_phrase": "in the kitchen",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_kitchen.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_restaurant",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the restaurant",
+    "suggested_phrase": "in the restaurant",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_restaurant.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_cafe",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the cafe",
+    "suggested_phrase": "in the cafe",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_cafe.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_coffee_shop",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the coffee shop",
+    "suggested_phrase": "in the coffee shop",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_coffee_shop.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_warehouse",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the warehouse",
+    "suggested_phrase": "in the warehouse",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_warehouse.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_office",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the office",
+    "suggested_phrase": "in the office",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_office.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_reception",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at reception",
+    "suggested_phrase": "at reception",
+    "topics": "jobs",
+    "filename": "symbols/where_at_reception.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_shop",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the shop",
+    "suggested_phrase": "in the shop",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_shop.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_work",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at work",
+    "suggested_phrase": "at work",
+    "topics": "jobs",
+    "filename": "symbols/where_at_work.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_classroom",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the classroom",
+    "suggested_phrase": "in the classroom",
+    "topics": "jobs",
+    "filename": "symbols/where_in_the_classroom.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_college",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in college",
+    "suggested_phrase": "in college",
+    "topics": "jobs",
+    "filename": "symbols/where_in_college.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_home",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at home",
+    "suggested_phrase": "at home",
+    "topics": "home",
+    "filename": "symbols/where_at_home.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_bedroom",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the bedroom",
+    "suggested_phrase": "in the bedroom",
+    "topics": "home",
+    "filename": "symbols/where_in_the_bedroom.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_bathroom",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the bathroom",
+    "suggested_phrase": "in the bathroom",
+    "topics": "home",
+    "filename": "symbols/where_in_the_bathroom.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_living_room",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the living room",
+    "suggested_phrase": "in the living room",
+    "topics": "home",
+    "filename": "symbols/where_in_the_living_room.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_garden",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the garden",
+    "suggested_phrase": "in the garden",
+    "topics": "home",
+    "filename": "symbols/where_in_the_garden.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_table",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the table",
+    "suggested_phrase": "at the table",
+    "topics": "home",
+    "filename": "symbols/where_at_the_table.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_hallway",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the hallway",
+    "suggested_phrase": "in the hallway",
+    "topics": "home",
+    "filename": "symbols/where_in_the_hallway.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_on_the_football_pitch",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "on the football pitch",
+    "suggested_phrase": "on the football pitch",
+    "topics": "sports",
+    "filename": "symbols/where_on_the_football_pitch.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_sports_hall",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the sports hall",
+    "suggested_phrase": "in the sports hall",
+    "topics": "sports",
+    "filename": "symbols/where_in_the_sports_hall.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_swimming_pool",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the swimming pool",
+    "suggested_phrase": "at the swimming pool",
+    "topics": "sports",
+    "filename": "symbols/where_at_the_swimming_pool.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_gym",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the gym",
+    "suggested_phrase": "in the gym",
+    "topics": "sports",
+    "filename": "symbols/where_in_the_gym.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_park",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the park",
+    "suggested_phrase": "in the park",
+    "topics": "sports",
+    "filename": "symbols/where_in_the_park.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_on_the_playground",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "on the playground",
+    "suggested_phrase": "on the playground",
+    "topics": "sports",
+    "filename": "symbols/where_on_the_playground.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_supermarket",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the supermarket",
+    "suggested_phrase": "in the supermarket",
+    "topics": "shopping",
+    "filename": "symbols/where_in_the_supermarket.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_till",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the till",
+    "suggested_phrase": "at the till",
+    "topics": "shopping",
+    "filename": "symbols/where_at_the_till.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_shopping_centre",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the shopping centre",
+    "suggested_phrase": "in the shopping centre",
+    "topics": "shopping",
+    "filename": "symbols/where_in_the_shopping_centre.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_bus_stop",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the bus stop",
+    "suggested_phrase": "at the bus stop",
+    "topics": "travel",
+    "filename": "symbols/where_at_the_bus_stop.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_on_the_bus",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "on the bus",
+    "suggested_phrase": "on the bus",
+    "topics": "travel",
+    "filename": "symbols/where_on_the_bus.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_train_station",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the train station",
+    "suggested_phrase": "at the train station",
+    "topics": "travel",
+    "filename": "symbols/where_at_the_train_station.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_on_the_train",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "on the train",
+    "suggested_phrase": "on the train",
+    "topics": "travel",
+    "filename": "symbols/where_on_the_train.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_crossing",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the crossing",
+    "suggested_phrase": "at the crossing",
+    "topics": "travel",
+    "filename": "symbols/where_at_the_crossing.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_on_the_pavement",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "on the pavement",
+    "suggested_phrase": "on the pavement",
+    "topics": "travel",
+    "filename": "symbols/where_on_the_pavement.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_cinema",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the cinema",
+    "suggested_phrase": "at the cinema",
+    "topics": "leisure",
+    "filename": "symbols/where_at_the_cinema.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_bowling_alley",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the bowling alley",
+    "suggested_phrase": "at the bowling alley",
+    "topics": "leisure",
+    "filename": "symbols/where_at_the_bowling_alley.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_in_the_library",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "in the library",
+    "suggested_phrase": "in the library",
+    "topics": "leisure",
+    "filename": "symbols/where_in_the_library.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "where_at_the_cafe",
+    "colour_group": "where",
+    "colour_name": "Blue",
+    "symbol_text": "at the cafe",
+    "suggested_phrase": "at the cafe",
+    "topics": "leisure",
+    "filename": "symbols/where_at_the_cafe.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_today",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "today",
+    "suggested_phrase": "today",
+    "topics": "time",
+    "filename": "symbols/when_today.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_yesterday",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "yesterday",
+    "suggested_phrase": "yesterday",
+    "topics": "time",
+    "filename": "symbols/when_yesterday.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_tomorrow",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "tomorrow",
+    "suggested_phrase": "tomorrow",
+    "topics": "time",
+    "filename": "symbols/when_tomorrow.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_this_morning",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "this morning",
+    "suggested_phrase": "this morning",
+    "topics": "time",
+    "filename": "symbols/when_this_morning.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_this_afternoon",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "this afternoon",
+    "suggested_phrase": "this afternoon",
+    "topics": "time",
+    "filename": "symbols/when_this_afternoon.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_this_evening",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "this evening",
+    "suggested_phrase": "this evening",
+    "topics": "time",
+    "filename": "symbols/when_this_evening.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_at_night",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "at night",
+    "suggested_phrase": "at night",
+    "topics": "time",
+    "filename": "symbols/when_at_night.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_at_lunchtime",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "at lunchtime",
+    "suggested_phrase": "at lunchtime",
+    "topics": "time",
+    "filename": "symbols/when_at_lunchtime.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_after_lunch",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "after lunch",
+    "suggested_phrase": "after lunch",
+    "topics": "time",
+    "filename": "symbols/when_after_lunch.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_before_lunch",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "before lunch",
+    "suggested_phrase": "before lunch",
+    "topics": "time",
+    "filename": "symbols/when_before_lunch.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_on_monday",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "on Monday",
+    "suggested_phrase": "on Monday",
+    "topics": "time",
+    "filename": "symbols/when_on_monday.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_on_tuesday",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "on Tuesday",
+    "suggested_phrase": "on Tuesday",
+    "topics": "time",
+    "filename": "symbols/when_on_tuesday.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_on_wednesday",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "on Wednesday",
+    "suggested_phrase": "on Wednesday",
+    "topics": "time",
+    "filename": "symbols/when_on_wednesday.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_on_thursday",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "on Thursday",
+    "suggested_phrase": "on Thursday",
+    "topics": "time",
+    "filename": "symbols/when_on_thursday.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_on_friday",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "on Friday",
+    "suggested_phrase": "on Friday",
+    "topics": "time",
+    "filename": "symbols/when_on_friday.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_at_the_weekend",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "at the weekend",
+    "suggested_phrase": "at the weekend",
+    "topics": "time",
+    "filename": "symbols/when_at_the_weekend.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_now",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "now",
+    "suggested_phrase": "now",
+    "topics": "time",
+    "filename": "symbols/when_now.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "when_later",
+    "colour_group": "when",
+    "colour_name": "Brown",
+    "symbol_text": "later",
+    "suggested_phrase": "later",
+    "topics": "time",
+    "filename": "symbols/when_later.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_the_customer",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to the customer",
+    "suggested_phrase": "to the customer",
+    "topics": "people",
+    "filename": "symbols/whom_to_the_customer.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_the_teacher",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to the teacher",
+    "suggested_phrase": "to the teacher",
+    "topics": "people",
+    "filename": "symbols/whom_to_the_teacher.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_the_learner",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to the learner",
+    "suggested_phrase": "to the learner",
+    "topics": "people",
+    "filename": "symbols/whom_to_the_learner.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_a_friend",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to a friend",
+    "suggested_phrase": "to a friend",
+    "topics": "people",
+    "filename": "symbols/whom_to_a_friend.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_the_manager",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to the manager",
+    "suggested_phrase": "to the manager",
+    "topics": "people",
+    "filename": "symbols/whom_to_the_manager.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_the_waiter",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to the waiter",
+    "suggested_phrase": "to the waiter",
+    "topics": "people",
+    "filename": "symbols/whom_to_the_waiter.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_the_barista",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to the barista",
+    "suggested_phrase": "to the barista",
+    "topics": "people",
+    "filename": "symbols/whom_to_the_barista.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_mum",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to mum",
+    "suggested_phrase": "to mum",
+    "topics": "people",
+    "filename": "symbols/whom_to_mum.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "whom_to_dad",
+    "colour_group": "whom",
+    "colour_name": "Pink",
+    "symbol_text": "to dad",
+    "suggested_phrase": "to dad",
+    "topics": "people",
+    "filename": "symbols/whom_to_dad.png",
+    "image_status": "PLACEHOLDER"
+  },
+  {
+    "id": "doing_pushing",
+    "colour_group": "doing",
+    "colour_name": "Yellow",
+    "symbol_text": "pushing",
+    "suggested_phrase": "pushing",
+    "topics": "all",
+    "filename": "symbols/doing_pushing.png",
+    "image_status": "MISSING"
+  },
+  {
+    "id": "what_dog",
+    "colour_group": "what",
+    "colour_name": "Green",
+    "symbol_text": "dog",
+    "suggested_phrase": "dog",
+    "topics": "all",
+    "filename": "symbols/what_dog.png",
+    "image_status": "MISSING"
+  }
+]

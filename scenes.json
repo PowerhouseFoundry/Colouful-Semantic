@@ -1,0 +1,1748 @@
+{
+  "categories": [
+    {
+      "id": "cooking",
+      "name": "Cooking & Kitchen",
+      "icon": "chef-hat",
+      "colour": "#ED9B62",
+      "count": 10
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "trophy",
+      "colour": "#7A9FE0",
+      "count": 10
+    },
+    {
+      "id": "leisure",
+      "name": "Leisure",
+      "icon": "gamepad-2",
+      "colour": "#B39BEB",
+      "count": 10
+    },
+    {
+      "id": "jobs",
+      "name": "Jobs & Workplace",
+      "icon": "briefcase-business",
+      "colour": "#6CB7AE",
+      "count": 10
+    },
+    {
+      "id": "college",
+      "name": "College",
+      "icon": "graduation-cap",
+      "colour": "#A0B9E5",
+      "count": 10
+    },
+    {
+      "id": "home",
+      "name": "Home & Living",
+      "icon": "house",
+      "colour": "#D8A0AF",
+      "count": 10
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "icon": "shopping-basket",
+      "colour": "#E6AD72",
+      "count": 10
+    },
+    {
+      "id": "travel",
+      "name": "Travel & Transport",
+      "icon": "bus",
+      "colour": "#83C3D9",
+      "count": 10
+    },
+    {
+      "id": "social",
+      "name": "Friends & Social",
+      "icon": "users",
+      "colour": "#E6B0CA",
+      "count": 10
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant & Cafe",
+      "icon": "coffee",
+      "colour": "#B9A48F",
+      "count": 10
+    },
+    {
+      "id": "money",
+      "name": "Money & Finance",
+      "icon": "wallet",
+      "colour": "#9CBF88",
+      "count": 10
+    },
+    {
+      "id": "community",
+      "name": "Outdoors & Community",
+      "icon": "trees",
+      "colour": "#8DBD91",
+      "count": 10
+    }
+  ],
+  "scenes": [
+    {
+      "id": "cooking_01",
+      "category": "cooking",
+      "title": "Chopping vegetables",
+      "photo": "",
+      "answers": {
+        "who": "who_chef",
+        "doing": "doing_chopping",
+        "what": "what_carrot",
+        "where": "where_in_the_kitchen"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing chopping vegetables. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_02",
+      "category": "cooking",
+      "title": "Stirring a saucepan",
+      "photo": "",
+      "answers": {
+        "who": "who_chef",
+        "doing": "doing_stirring",
+        "what": "what_pan",
+        "where": "where_in_the_kitchen"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing stirring a saucepan. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_03",
+      "category": "cooking",
+      "title": "Using the oven",
+      "photo": "",
+      "answers": {
+        "who": "who_chef",
+        "doing": "doing_cooking",
+        "what": "what_food",
+        "where": "where_in_the_kitchen"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing using the oven. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_04",
+      "category": "cooking",
+      "title": "Washing dishes",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_washing",
+        "what": "what_plate",
+        "where": "where_in_the_kitchen"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing washing dishes. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_05",
+      "category": "cooking",
+      "title": "Making a sandwich",
+      "photo": "",
+      "answers": {
+        "who": "who_chef",
+        "doing": "doing_preparing",
+        "what": "what_sandwich",
+        "where": "where_in_the_kitchen"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing making a sandwich. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_06",
+      "category": "cooking",
+      "title": "Eating a meal",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_eating",
+        "what": "what_food",
+        "where": "where_at_the_table"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing eating a meal. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_07",
+      "category": "cooking",
+      "title": "Taking bins out",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_carrying",
+        "what": "what_bin",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing taking bins out. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_08",
+      "category": "cooking",
+      "title": "Washing hands",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_washing",
+        "what": "what_soap",
+        "where": "where_in_the_bathroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing washing hands. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_09",
+      "category": "cooking",
+      "title": "Putting food in the fridge",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_putting_away",
+        "what": "what_food",
+        "where": "where_in_the_kitchen"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing putting food in the fridge. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "cooking_10",
+      "category": "cooking",
+      "title": "Serving food",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_serving",
+        "what": "what_food",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing serving food. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_01",
+      "category": "sports",
+      "title": "Kicking a football",
+      "photo": "",
+      "answers": {
+        "who": "who_footballer",
+        "doing": "doing_kicking",
+        "what": "what_football",
+        "where": "where_on_the_football_pitch"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing kicking a football. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_02",
+      "category": "sports",
+      "title": "Catching a ball",
+      "photo": "",
+      "answers": {
+        "who": "who_goalkeeper",
+        "doing": "doing_catching",
+        "what": "what_ball",
+        "where": "where_on_the_football_pitch"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing catching a ball. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_03",
+      "category": "sports",
+      "title": "Playing basketball",
+      "photo": "",
+      "answers": {
+        "who": "who_basketball_player",
+        "doing": "doing_playing",
+        "what": "what_ball",
+        "where": "where_in_the_sports_hall"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing playing basketball. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_04",
+      "category": "sports",
+      "title": "Swimming",
+      "photo": "",
+      "answers": {
+        "who": "who_swimmer",
+        "doing": "doing_swimming",
+        "where": "where_at_the_swimming_pool"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing swimming. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_05",
+      "category": "sports",
+      "title": "Running on a track",
+      "photo": "",
+      "answers": {
+        "who": "who_runner",
+        "doing": "doing_running",
+        "where": "where_in_the_sports_hall"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing running on a track. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_06",
+      "category": "sports",
+      "title": "Riding a bicycle",
+      "photo": "",
+      "answers": {
+        "who": "who_cyclist",
+        "doing": "doing_cycling",
+        "what": "what_bike",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing riding a bicycle. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_07",
+      "category": "sports",
+      "title": "Lifting weights",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_training",
+        "where": "where_in_the_gym"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing lifting weights. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_08",
+      "category": "sports",
+      "title": "Playing tennis",
+      "photo": "",
+      "answers": {
+        "who": "who_tennis_player",
+        "doing": "doing_playing",
+        "what": "what_racket",
+        "where": "where_in_the_sports_hall"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing playing tennis. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_09",
+      "category": "sports",
+      "title": "Scoring a goal",
+      "photo": "",
+      "answers": {
+        "who": "who_footballer",
+        "doing": "doing_shooting",
+        "what": "what_football",
+        "where": "where_on_the_football_pitch"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing scoring a goal. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "sports_10",
+      "category": "sports",
+      "title": "Drinking water",
+      "photo": "",
+      "answers": {
+        "who": "who_footballer",
+        "doing": "doing_drinking",
+        "what": "what_water",
+        "where": "where_on_the_football_pitch"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing drinking water. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_01",
+      "category": "leisure",
+      "title": "Playing video games",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_playing",
+        "what": "what_game",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing playing video games. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_02",
+      "category": "leisure",
+      "title": "Watching television",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_watching",
+        "what": "what_television",
+        "where": "where_in_the_living_room"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing watching television. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_03",
+      "category": "leisure",
+      "title": "Listening to music",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_listening",
+        "what": "what_music",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing listening to music. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_04",
+      "category": "leisure",
+      "title": "Playing guitar",
+      "photo": "",
+      "answers": {
+        "who": "who_musician",
+        "doing": "doing_playing",
+        "what": "what_guitar",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing playing guitar. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_05",
+      "category": "leisure",
+      "title": "Reading a book",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_reading",
+        "what": "what_book",
+        "where": "where_in_the_library"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing reading a book. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_06",
+      "category": "leisure",
+      "title": "Bowling",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_playing",
+        "what": "what_ball",
+        "where": "where_at_the_bowling_alley"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing bowling. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_07",
+      "category": "leisure",
+      "title": "Dancing",
+      "photo": "",
+      "answers": {
+        "who": "who_dancer",
+        "doing": "doing_dancing",
+        "where": "where_in_the_sports_hall"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing dancing. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_08",
+      "category": "leisure",
+      "title": "Taking photographs",
+      "photo": "",
+      "answers": {
+        "who": "who_photographer",
+        "doing": "doing_taking",
+        "what": "what_picture",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing taking photographs. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_09",
+      "category": "leisure",
+      "title": "Walking a dog",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_walking",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing walking a dog. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "leisure_10",
+      "category": "leisure",
+      "title": "Painting a picture",
+      "photo": "",
+      "answers": {
+        "who": "who_artist",
+        "doing": "doing_painting",
+        "what": "what_picture",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing painting a picture. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_01",
+      "category": "jobs",
+      "title": "Scanning a parcel",
+      "photo": "",
+      "answers": {
+        "who": "who_warehouse_worker",
+        "doing": "doing_scanning",
+        "what": "what_parcel",
+        "where": "where_in_the_warehouse"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing scanning a parcel. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_02",
+      "category": "jobs",
+      "title": "Packing a box",
+      "photo": "",
+      "answers": {
+        "who": "who_warehouse_worker",
+        "doing": "doing_packing",
+        "what": "what_box",
+        "where": "where_in_the_warehouse"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing packing a box. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_03",
+      "category": "jobs",
+      "title": "Cleaning a table",
+      "photo": "",
+      "answers": {
+        "who": "who_cleaner",
+        "doing": "doing_cleaning",
+        "what": "what_table",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing cleaning a table. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_04",
+      "category": "jobs",
+      "title": "Answering a phone",
+      "photo": "",
+      "answers": {
+        "who": "who_receptionist",
+        "doing": "doing_answering",
+        "what": "what_phone",
+        "where": "where_at_reception"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing answering a phone. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_05",
+      "category": "jobs",
+      "title": "Serving a customer",
+      "photo": "",
+      "answers": {
+        "who": "who_shop_assistant",
+        "doing": "doing_serving",
+        "where": "where_in_the_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing serving a customer. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_06",
+      "category": "jobs",
+      "title": "Making coffee",
+      "photo": "",
+      "answers": {
+        "who": "who_barista",
+        "doing": "doing_preparing",
+        "what": "what_coffee",
+        "where": "where_in_the_coffee_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing making coffee. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_07",
+      "category": "jobs",
+      "title": "Stocking shelves",
+      "photo": "",
+      "answers": {
+        "who": "who_warehouse_worker",
+        "doing": "doing_stacking",
+        "what": "what_box",
+        "where": "where_in_the_warehouse"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing stocking shelves. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_08",
+      "category": "jobs",
+      "title": "Typing at a computer",
+      "photo": "",
+      "answers": {
+        "who": "who_office_worker",
+        "doing": "doing_typing",
+        "what": "what_computer",
+        "where": "where_in_the_office"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing typing at a computer. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_09",
+      "category": "jobs",
+      "title": "Delivering a parcel",
+      "photo": "",
+      "answers": {
+        "who": "who_delivery_driver",
+        "doing": "doing_delivering",
+        "what": "what_parcel",
+        "where": "where_at_work"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing delivering a parcel. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "jobs_10",
+      "category": "jobs",
+      "title": "Sweeping the floor",
+      "photo": "",
+      "answers": {
+        "who": "who_cleaner",
+        "doing": "doing_sweeping",
+        "where": "where_at_work"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing sweeping the floor. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_01",
+      "category": "college",
+      "title": "Writing in a book",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_writing",
+        "what": "what_book",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing writing in a book. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_02",
+      "category": "college",
+      "title": "Listening to a teacher",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_listening",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing listening to a teacher. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_03",
+      "category": "college",
+      "title": "Using a laptop",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_working",
+        "what": "what_computer",
+        "where": "where_in_college"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing using a laptop. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_04",
+      "category": "college",
+      "title": "Reading a worksheet",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_reading",
+        "what": "what_paper",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing reading a worksheet. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_05",
+      "category": "college",
+      "title": "Raising a hand",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_showing",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing raising a hand. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_06",
+      "category": "college",
+      "title": "Working with a friend",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_working",
+        "where": "where_in_college"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing working with a friend. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_07",
+      "category": "college",
+      "title": "Cutting with scissors",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_cutting",
+        "what": "what_paper",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing cutting with scissors. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_08",
+      "category": "college",
+      "title": "Putting a bag away",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_putting_away",
+        "what": "what_bag",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing putting a bag away. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_09",
+      "category": "college",
+      "title": "Eating lunch",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_eating",
+        "what": "what_sandwich",
+        "where": "where_in_college"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing eating lunch. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "college_10",
+      "category": "college",
+      "title": "Talking to a teacher",
+      "photo": "",
+      "answers": {
+        "who": "who_learner",
+        "doing": "doing_talking",
+        "where": "where_in_the_classroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing talking to a teacher. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_01",
+      "category": "home",
+      "title": "Making the bed",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_making_the_bed",
+        "what": "what_bed",
+        "where": "where_in_the_bedroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing making the bed. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_02",
+      "category": "home",
+      "title": "Hoovering the carpet",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_hoovering",
+        "where": "where_in_the_living_room"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing hoovering the carpet. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_03",
+      "category": "home",
+      "title": "Loading a washing machine",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_washing",
+        "what": "what_clothes",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing loading a washing machine. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_04",
+      "category": "home",
+      "title": "Hanging washing",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_folding",
+        "what": "what_laundry",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing hanging washing. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_05",
+      "category": "home",
+      "title": "Ironing clothes",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_preparing",
+        "what": "what_clothes",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing ironing clothes. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_06",
+      "category": "home",
+      "title": "Brushing teeth",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_brushing",
+        "what": "what_toothbrush",
+        "where": "where_in_the_bathroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing brushing teeth. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_07",
+      "category": "home",
+      "title": "Getting dressed",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_getting_dressed",
+        "what": "what_clothes",
+        "where": "where_in_the_bedroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing getting dressed. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_08",
+      "category": "home",
+      "title": "Cleaning a window",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_wiping",
+        "what": "what_window",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing cleaning a window. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_09",
+      "category": "home",
+      "title": "Watering plants",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_watering",
+        "what": "what_plant",
+        "where": "where_in_the_garden"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing watering plants. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "home_10",
+      "category": "home",
+      "title": "Folding clothes",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_folding",
+        "what": "what_clothes",
+        "where": "where_in_the_bedroom"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing folding clothes. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_01",
+      "category": "shopping",
+      "title": "Pushing a trolley",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_shopping",
+        "what": "what_trolley",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing pushing a trolley. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_02",
+      "category": "shopping",
+      "title": "Choosing fruit",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_taking",
+        "what": "what_apple",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing choosing fruit. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_03",
+      "category": "shopping",
+      "title": "Picking up bread",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_taking",
+        "what": "what_bread",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing picking up bread. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_04",
+      "category": "shopping",
+      "title": "Reading a price label",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_reading",
+        "what": "what_paper",
+        "where": "where_in_the_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing reading a price label. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_05",
+      "category": "shopping",
+      "title": "Putting food in a basket",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_shopping",
+        "what": "what_food",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing putting food in a basket. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_06",
+      "category": "shopping",
+      "title": "Paying with a bank card",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_paying",
+        "what": "what_card",
+        "where": "where_at_the_till"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing paying with a bank card. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_07",
+      "category": "shopping",
+      "title": "Using a checkout",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_scanning",
+        "what": "what_barcode",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing using a checkout. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_08",
+      "category": "shopping",
+      "title": "Packing a shopping bag",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_packing",
+        "what": "what_bag",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing packing a shopping bag. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_09",
+      "category": "shopping",
+      "title": "Returning a trolley",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_pushing",
+        "what": "what_trolley",
+        "where": "where_in_the_supermarket"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing returning a trolley. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "shopping_10",
+      "category": "shopping",
+      "title": "Carrying shopping",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_carrying",
+        "what": "what_bag",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing carrying shopping. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_01",
+      "category": "travel",
+      "title": "Waiting for a bus",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_waiting",
+        "what": "what_bus",
+        "where": "where_at_the_bus_stop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing waiting for a bus. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_02",
+      "category": "travel",
+      "title": "Boarding a bus",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_boarding",
+        "what": "what_bus",
+        "where": "where_at_the_bus_stop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing boarding a bus. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_03",
+      "category": "travel",
+      "title": "Buying a train ticket",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_buying",
+        "what": "what_ticket",
+        "where": "where_at_the_train_station"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing buying a train ticket. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_04",
+      "category": "travel",
+      "title": "Sitting on a train",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_sitting",
+        "where": "where_on_the_train"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing sitting on a train. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_05",
+      "category": "travel",
+      "title": "Reading a timetable",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_reading",
+        "what": "what_paper",
+        "where": "where_at_the_bus_stop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing reading a timetable. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_06",
+      "category": "travel",
+      "title": "Crossing a road",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_crossing",
+        "where": "where_at_the_crossing"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing crossing a road. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_07",
+      "category": "travel",
+      "title": "Using a ticket machine",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_buying",
+        "what": "what_ticket",
+        "where": "where_at_the_train_station"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing using a ticket machine. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_08",
+      "category": "travel",
+      "title": "Getting into a car",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_travelling",
+        "what": "what_car",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing getting into a car. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_09",
+      "category": "travel",
+      "title": "Looking at a map",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_reading",
+        "what": "what_map",
+        "where": "where_at_the_train_station"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing looking at a map. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "travel_10",
+      "category": "travel",
+      "title": "Getting off a bus",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_travelling",
+        "what": "what_bus",
+        "where": "where_at_the_bus_stop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing getting off a bus. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_01",
+      "category": "social",
+      "title": "Talking to a friend",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_talking",
+        "where": "where_at_the_cafe"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing talking to a friend. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_02",
+      "category": "social",
+      "title": "Shaking hands",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_giving",
+        "where": "where_at_work"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing shaking hands. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_03",
+      "category": "social",
+      "title": "Giving a present",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_giving",
+        "what": "what_package",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing giving a present. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_04",
+      "category": "social",
+      "title": "Waving goodbye",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_showing",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing waving goodbye. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_05",
+      "category": "social",
+      "title": "Taking a selfie",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_taking",
+        "what": "what_picture",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing taking a selfie. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_06",
+      "category": "social",
+      "title": "Playing a board game",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_playing",
+        "what": "what_game",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing playing a board game. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_07",
+      "category": "social",
+      "title": "Sharing food",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_giving",
+        "what": "what_food",
+        "where": "where_at_the_table"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing sharing food. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_08",
+      "category": "social",
+      "title": "Celebrating a birthday",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_laughing",
+        "what": "what_cake",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing celebrating a birthday. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_09",
+      "category": "social",
+      "title": "Helping a friend",
+      "photo": "",
+      "answers": {
+        "who": "who_friend",
+        "doing": "doing_helping",
+        "where": "where_in_college"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing helping a friend. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "social_10",
+      "category": "social",
+      "title": "Ordering in a cafe",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_buying",
+        "what": "what_coffee",
+        "where": "where_in_the_cafe"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing ordering in a cafe. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_01",
+      "category": "restaurant",
+      "title": "Taking an order",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_taking",
+        "what": "what_menu",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing taking an order. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_02",
+      "category": "restaurant",
+      "title": "Carrying a tray",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_carrying",
+        "what": "what_tray",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing carrying a tray. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_03",
+      "category": "restaurant",
+      "title": "Pouring a drink",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_pouring",
+        "what": "what_drink",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing pouring a drink. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_04",
+      "category": "restaurant",
+      "title": "Making a cappuccino",
+      "photo": "",
+      "answers": {
+        "who": "who_barista",
+        "doing": "doing_preparing",
+        "what": "what_coffee",
+        "where": "where_in_the_coffee_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing making a cappuccino. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_05",
+      "category": "restaurant",
+      "title": "Serving a meal",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_serving",
+        "what": "what_food",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing serving a meal. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_06",
+      "category": "restaurant",
+      "title": "Clearing dirty plates",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_cleaning",
+        "what": "what_plate",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing clearing dirty plates. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_07",
+      "category": "restaurant",
+      "title": "Wiping a table",
+      "photo": "",
+      "answers": {
+        "who": "who_cleaner",
+        "doing": "doing_wiping",
+        "what": "what_table",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing wiping a table. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_08",
+      "category": "restaurant",
+      "title": "Giving a menu",
+      "photo": "",
+      "answers": {
+        "who": "who_waiter",
+        "doing": "doing_giving",
+        "what": "what_menu",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing giving a menu. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_09",
+      "category": "restaurant",
+      "title": "Paying a bill",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_paying",
+        "what": "what_money",
+        "where": "where_in_the_restaurant"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing paying a bill. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "restaurant_10",
+      "category": "restaurant",
+      "title": "Washing cups",
+      "photo": "",
+      "answers": {
+        "who": "who_barista",
+        "doing": "doing_washing",
+        "what": "what_cup",
+        "where": "where_in_the_coffee_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing washing cups. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_01",
+      "category": "money",
+      "title": "Counting coins",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_counting",
+        "what": "what_money",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing counting coins. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_02",
+      "category": "money",
+      "title": "Putting money in a purse",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_putting_away",
+        "what": "what_money",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing putting money in a purse. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_03",
+      "category": "money",
+      "title": "Using a cash machine",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_taking",
+        "what": "what_money",
+        "where": "where_in_the_shopping_centre"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing using a cash machine. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_04",
+      "category": "money",
+      "title": "Paying for coffee",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_paying",
+        "what": "what_coffee",
+        "where": "where_at_the_cafe"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing paying for coffee. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_05",
+      "category": "money",
+      "title": "Checking a balance",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_checking",
+        "what": "what_phone",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing checking a balance. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_06",
+      "category": "money",
+      "title": "Reading a receipt",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_reading",
+        "what": "what_receipt",
+        "where": "where_in_the_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing reading a receipt. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_07",
+      "category": "money",
+      "title": "Saving money",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_putting_away",
+        "what": "what_money",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing saving money. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_08",
+      "category": "money",
+      "title": "Sorting coins",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_sorting",
+        "what": "what_money",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing sorting coins. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_09",
+      "category": "money",
+      "title": "Paying with cash",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_paying",
+        "what": "what_money",
+        "where": "where_at_the_till"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing paying with cash. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "money_10",
+      "category": "money",
+      "title": "Checking a bill",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_checking",
+        "what": "what_invoice",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing checking a bill. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_01",
+      "category": "community",
+      "title": "Walking in the park",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_walking",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing walking in the park. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_02",
+      "category": "community",
+      "title": "Feeding a pet",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_feeding",
+        "what": "what_dog",
+        "where": "where_in_the_garden"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing feeding a pet. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_03",
+      "category": "community",
+      "title": "Getting on a bus",
+      "photo": "photos/community/community_03_getting_on_bus.jpg",
+      "answers": {
+        "who": "who_man",
+        "doing": "doing_boarding",
+        "what": "what_bus",
+        "where": "where_at_the_bus_stop"
+      },
+      "alternatives": {},
+      "note": "Photo: Getting on a bus. One clear action."
+    },
+    {
+      "id": "community_04",
+      "category": "community",
+      "title": "Posting a letter",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_delivering",
+        "what": "what_letter",
+        "where": "where_at_work"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing posting a letter. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_05",
+      "category": "community",
+      "title": "Picking up litter",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_cleaning",
+        "what": "what_bag",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing picking up litter. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_06",
+      "category": "community",
+      "title": "Sitting on a bench",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_sitting",
+        "where": "where_in_the_park"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing sitting on a bench. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_07",
+      "category": "community",
+      "title": "Waiting for a bus",
+      "photo": "photos/community/community_07_waiting_for_bus.jpg",
+      "answers": {
+        "who": "who_woman",
+        "doing": "doing_waiting",
+        "where": "where_at_the_bus_stop"
+      },
+      "alternatives": {},
+      "note": "Photo: Waiting for a bus. One clear action."
+    },
+    {
+      "id": "community_08",
+      "category": "community",
+      "title": "Shopping at a market",
+      "photo": "",
+      "answers": {
+        "who": "who_customer",
+        "doing": "doing_buying",
+        "what": "what_vegetables",
+        "where": "where_in_the_shop"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing shopping at a market. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_09",
+      "category": "community",
+      "title": "Recycling a bottle",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_sorting",
+        "what": "what_bin",
+        "where": "where_at_home"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing recycling a bottle. One obvious action; adult-appropriate setting."
+    },
+    {
+      "id": "community_10",
+      "category": "community",
+      "title": "Crossing the road",
+      "photo": "",
+      "answers": {
+        "who": "who_person",
+        "doing": "doing_crossing",
+        "where": "where_at_the_crossing"
+      },
+      "alternatives": {},
+      "note": "Photo needed: A clear, realistic photograph showing crossing the road. One obvious action; adult-appropriate setting."
+    }
+  ]
+}
