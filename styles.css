@@ -540,3 +540,84 @@ body:has(.new-builder) .new-builder .drop-grid .slot .symbol-img{
     line-height:1.08 !important;
   }
 }
+
+/* V17 — restore compact choice cards and prioritise the photograph.
+   Overrides only the learner builder; retains the V16 two-line label fix.
+   Do not stretch choice cards to fill a whole grid cell. */
+body:has(.new-builder) .new-builder{
+  grid-template-rows:
+    minmax(25px,29px)
+    minmax(0,45fr)
+    minmax(0,11fr)
+    minmax(0,18fr)
+    minmax(0,26fr)
+    minmax(28px,32px) !important;
+  gap:clamp(3px,.5dvh,6px);
+}
+body:has(.new-builder) .new-builder .centre-photo .photo-box{
+  width:min(100%,1000px);
+  height:100%;
+}
+body:has(.new-builder) .new-builder .centre-photo .photo-box img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid{
+  justify-items:center;
+  align-items:center;
+  align-content:center;
+  gap:clamp(3px,.5dvh,6px);
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card{
+  width:min(100%,clamp(88px,8.1vw,124px)) !important;
+  height:min(100%,clamp(88px,8.6vw,130px)) !important;
+  max-width:124px !important;
+  max-height:130px !important;
+  aspect-ratio:auto !important;
+  padding:4px !important;
+  gap:2px;
+  align-self:center;
+  justify-self:center;
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card .symbol-word{
+  min-height:0;
+  max-height:none !important;
+  font-size:clamp(10px,.9vw,13px) !important;
+  line-height:1.08 !important;
+  padding:1px 0;
+  overflow-wrap:normal;
+  word-break:normal;
+  white-space:normal;
+}
+body:has(.new-builder) .new-builder .drop-grid .slot{
+  width:auto;
+  max-width:125px;
+  height:100%;
+  aspect-ratio:1 / 1;
+}
+@media (max-height:700px){
+  body:has(.new-builder) .new-builder{
+    grid-template-rows:
+      minmax(24px,27px)
+      minmax(0,43fr)
+      minmax(0,12fr)
+      minmax(0,18fr)
+      minmax(0,27fr)
+      minmax(26px,30px) !important;
+  }
+  body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card{
+    max-height:112px !important;
+    width:min(100%,110px) !important;
+    height:min(100%,112px) !important;
+  }
+}
+@media (max-width:800px){
+  body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card{
+    width:min(100%,clamp(62px,13vw,110px)) !important;
+    height:min(100%,clamp(75px,14vw,115px)) !important;
+  }
+  body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card .symbol-word{
+    font-size:clamp(9px,1.3vw,11px) !important;
+  }
+}
