@@ -453,3 +453,90 @@ body:has(.new-builder) .new-builder{
   .new-builder .symbol-bank-grid .symbol-word{font-size:clamp(8px,1.35vw,12px);}
   .new-builder .slot .slot-label{font-size:clamp(9px,1.15vw,13px);}
 }
+
+
+/* V16: Correct labels cropped by V15 square-grid cards.
+   Keep a full label strip beneath the Widgit image, even on wide/short screens.
+   Card heights are determined by the available row, not by a forced square. */
+body:has(.new-builder) .new-builder .symbol-bank-grid{
+  align-items:stretch;
+  justify-items:stretch;
+  grid-auto-flow:row;
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card{
+  aspect-ratio:auto !important;
+  width:100% !important;
+  height:100% !important;
+  max-width:190px !important;
+  max-height:100% !important;
+  min-width:0 !important;
+  min-height:0 !important;
+  box-sizing:border-box;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  gap:3px;
+  padding:clamp(3px,.55dvh,6px) !important;
+  overflow:hidden;
+  margin-inline:auto;
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card .symbol-picture{
+  flex:1 1 0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  height:auto !important;
+  min-width:0;
+  min-height:0;
+  overflow:hidden;
+  border-radius:6px;
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card .symbol-img{
+  width:100%;
+  height:100%;
+  max-width:100%;
+  max-height:100%;
+  object-fit:contain;
+  display:block;
+}
+body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card .symbol-word{
+  flex:0 0 auto;
+  display:block;
+  width:100%;
+  min-height:2.25em;
+  max-height:none !important;
+  overflow:visible !important;
+  padding:1px 1px 0;
+  font-size:clamp(11px, min(1.05vw, 1.8dvh), 16px) !important;
+  line-height:1.12 !important;
+  font-weight:800;
+  text-align:center;
+  white-space:normal;
+  overflow-wrap:break-word;
+  word-break:normal;
+}
+/* The small answer boxes must not clip two-line answers either. */
+body:has(.new-builder) .new-builder .drop-grid .slot{
+  aspect-ratio:auto;
+  min-width:0;
+  max-width:160px;
+  width:100%;
+}
+body:has(.new-builder) .new-builder .drop-grid .slot .slot-label{
+  font-size:clamp(10px, min(1vw, 1.6dvh), 14px);
+  line-height:1.08;
+  overflow-wrap:break-word;
+  width:100%;
+}
+body:has(.new-builder) .new-builder .drop-grid .slot .symbol-img{
+  min-height:0;
+  height:55%;
+  max-height:55%;
+}
+@media(max-height:700px){
+  body:has(.new-builder) .new-builder .symbol-bank-grid .symbol-card .symbol-word{
+    font-size:clamp(10px,1.1vw,13px) !important;
+    line-height:1.08 !important;
+  }
+}
