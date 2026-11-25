@@ -311,3 +311,145 @@ body:has(.free-write-screen) .page{flex:1;min-height:0;display:flex;justify-cont
 .free-write-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:14px}
 .free-write-actions .pill-btn{min-height:56px;font-size:17px}
 @media(max-width:700px){.gallery-grid.custom-gallery{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(5,minmax(0,1fr))}.free-write-panel{padding:14px;gap:7px}.free-write-panel textarea{min-height:80px}.free-write-actions .pill-btn{min-height:42px}}
+
+/* V15 - consistent learner screen across desktop, laptop and iPad.
+   Use available viewport HEIGHT as well as width. Overrides earlier V4-V8
+   fixed-size card rules; does not alter other pages or teacher settings. */
+html:has(.new-builder),body:has(.new-builder){
+  height:100%;
+  overflow:hidden;
+}
+body:has(.new-builder) .app-shell{
+  display:flex;
+  flex-direction:column;
+  height:100vh;
+  height:100dvh;
+  min-height:0;
+  overflow:hidden;
+}
+body:has(.new-builder) .topbar{
+  flex:0 0 auto;
+  height:clamp(42px,6.5dvh,56px);
+  min-height:0;
+}
+body:has(.new-builder) .page{
+  flex:1 1 0;
+  min-height:0;
+  height:auto;
+  width:100%;
+  padding:clamp(3px,.65dvh,8px) clamp(6px,.75vw,14px);
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+}
+body:has(.new-builder) .new-builder{
+  width:100%;
+  height:100%;
+  min-height:0;
+  max-height:100%;
+  margin:0 auto;
+  gap:clamp(3px,.65dvh,7px);
+  grid-template-rows:
+    minmax(28px,32px)
+    minmax(0,30fr)
+    minmax(0,14fr)
+    minmax(0,18fr)
+    minmax(0,38fr)
+    minmax(30px,34px) !important;
+  overflow:hidden;
+}
+.new-builder > *{min-width:0;min-height:0;}
+.new-builder .centre-photo{
+  height:100%;min-height:0;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  overflow:hidden;
+}
+.new-builder .centre-photo .photo-box{
+  width:min(100%,720px);
+  height:100%;
+  min-height:0;
+  overflow:hidden;
+}
+.new-builder .centre-photo .photo-box img{
+  display:block;
+  width:100%;height:100%;max-height:none;
+  object-fit:contain;
+}
+.new-builder .drop-grid{height:100%;min-height:0;align-items:center;}
+.new-builder .slot{
+  height:100%;min-height:0;max-height:100%;
+  width:auto;max-width:100%;
+  aspect-ratio:1 / 1;
+  justify-self:center;
+  overflow:hidden;
+}
+.new-builder .sentence-and-actions{height:100%;min-height:0;}
+.new-builder .sentence-panel{height:100%;min-height:0;overflow:hidden;}
+.new-builder .sentence-text{
+  font-size:clamp(20px,min(3.6vw,6dvh),56px);
+  line-height:1.08;
+  max-height:100%;
+  overflow-wrap:break-word;
+}
+.new-builder .options-area{
+  height:100%;min-height:0;
+  padding:3px 5px;
+  overflow:hidden;
+}
+.new-builder .symbol-bank-grid{
+  display:grid !important;
+  grid-template-columns:repeat(var(--card-cols),minmax(0,1fr)) !important;
+  grid-template-rows:repeat(var(--card-rows),minmax(0,1fr)) !important;
+  justify-items:center;
+  align-items:center;
+  align-content:stretch;
+  gap:clamp(3px,.6dvh,7px);
+  height:100%;
+  min-height:0;
+  width:100%;
+  overflow:hidden;
+}
+.new-builder .symbol-bank-grid .symbol-card{
+  flex:none !important;
+  display:flex;
+  width:auto !important;
+  height:100% !important;
+  min-height:0 !important;
+  min-width:0 !important;
+  max-width:100% !important;
+  max-height:100% !important;
+  aspect-ratio:1 / 1 !important;
+  padding:clamp(2px,.45dvh,5px);
+  align-self:center;
+  justify-self:center;
+  overflow:hidden;
+}
+.new-builder .symbol-card .symbol-picture{
+  flex:1 1 0;
+  min-height:0;
+  width:100%;
+  overflow:hidden;
+}
+.new-builder .symbol-card .symbol-word{
+  flex:0 0 auto;
+  font-size:clamp(9px,min(1vw,1.8dvh),15px);
+  line-height:1.05;
+  max-height:2.2em;
+  overflow:hidden;
+}
+.new-builder .footer-nav{height:100%;min-height:0;}
+@media(max-height:700px){
+  body:has(.new-builder) .new-builder{
+    grid-template-rows: minmax(25px,29px) minmax(0,29fr) minmax(0,13fr) minmax(0,17fr) minmax(0,41fr) minmax(28px,31px) !important;
+    gap:3px;
+  }
+  .new-builder .sentence-text{font-size:clamp(19px,min(3vw,5.5dvh),43px);}
+  .new-builder .symbol-bank-grid .symbol-card{padding:2px;}
+}
+@media(max-width:800px){
+  .new-builder .sentence-and-actions{grid-template-columns:minmax(0,1fr) clamp(110px,20vw,170px);gap:4px;}
+  .new-builder .symbol-bank-grid .symbol-word{font-size:clamp(8px,1.35vw,12px);}
+  .new-builder .slot .slot-label{font-size:clamp(9px,1.15vw,13px);}
+}
